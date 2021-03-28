@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">今日運勢</string>
+    <string name="luckyOrder">吉凶順序:大吉-中吉-小吉-吉-末吉-凶-大凶</string>
+    <string name="horoscope">運勢</string>
+    <string name="instruction">小叮嚀</string>
+    <string name="again">再求一支!</string>
+    <string name="shake"> 期末將至，你的面前突然出現一個籤筒.....</string>
+    <string name="shake2">（搖一搖，測測你今天的運勢吧！）</string>
+</resources>
